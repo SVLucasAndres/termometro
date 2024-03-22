@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rtbtermometer": {
+      "hosting": {
+        "app": [
+          "rtbtermometer"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rtbtermometer"
+  }
+}
